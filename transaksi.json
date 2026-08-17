@@ -7,7 +7,16 @@
     }
   },
   "blacklist": {},
-  "pending": [],
+  "pending": [
+    {
+      "user_id": 8673453435,
+      "photo_id": "AgACAgUAAxkBAAMfaoNXA1Yz5GpwB9CVpNGU5CUiMloAAioRaxuBUCFUcfCCH5z_etABAAMCAAN5AAM9BA",
+      "nama_user": "AravellChell",
+      "caption": "Tidak ada caption",
+      "status": "pending",
+      "waktu": "2026-08-17T18:46:30.047Z"
+    }
+  ],
   "withdraw_pending": [],
   "history": [],
   "temp": {}
