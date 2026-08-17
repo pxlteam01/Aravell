@@ -28,8 +28,10 @@
       "photo_id": "AgACAgUAAxkBAAMfaoNXA1Yz5GpwB9CVpNGU5CUiMloAAioRaxuBUCFUcfCCH5z_etABAAMCAAN5AAM9BA",
       "nama_user": "AravellChell",
       "caption": "Tidak ada caption",
-      "status": "pending",
-      "waktu": "2026-08-17T18:52:48.654Z"
+      "status": "accepted",
+      "waktu": "2026-08-17T18:52:48.654Z",
+      "nominal": 10000,
+      "processed_at": "2026-08-17T18:53:07.491Z"
     }
   ],
   "withdraw_pending": [],
