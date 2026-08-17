@@ -1,8 +1,15 @@
 {
   "users": {
     "8673453435": {
-      "saldo": 0,
-      "history": [],
+      "saldo": 100000,
+      "history": [
+        {
+          "type": "masuk",
+          "amount": 100000,
+          "keterangan": "Transfer QRIS Rp100,000",
+          "time": "2026-08-17T18:47:09.094Z"
+        }
+      ],
       "created_at": "2026-08-17T18:24:38.304Z"
     }
   },
