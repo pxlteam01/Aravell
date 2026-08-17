@@ -19,5 +19,10 @@
   ],
   "withdraw_pending": [],
   "history": [],
-  "temp": {}
+  "temp": {
+    "8673453435": {
+      "pending_idx": 0,
+      "waiting_nominal": true
+    }
+  }
 }
