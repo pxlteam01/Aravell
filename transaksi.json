@@ -1,1 +1,14 @@
-{}
+{
+  "users": {
+    "8673453435": {
+      "saldo": 0,
+      "history": [],
+      "created_at": "2026-08-17T18:24:38.304Z"
+    }
+  },
+  "blacklist": {},
+  "pending": [],
+  "withdraw_pending": [],
+  "history": [],
+  "temp": {}
+}
